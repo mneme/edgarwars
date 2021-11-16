@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "aws-sdk": "^2.548.0",
+    "aws-sdk": "^2.814.0",
     "figlet": "^1.2.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
